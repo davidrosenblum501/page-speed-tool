@@ -1,0 +1,14 @@
+# locally installed dependencies
+node_modules
+
+# compiled typescript
+build
+
+# ignore the urls text file
+urls.txt
+
+# environment variables
+.env
+
+# misc
+.DS_Store
